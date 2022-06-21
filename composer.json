@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "ferdousanam/laravel",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "The Laravel Framework with basic setup ready.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
